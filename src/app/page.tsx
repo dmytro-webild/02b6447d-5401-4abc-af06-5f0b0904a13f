@@ -77,7 +77,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/digital-art-dark-cosmic-night-sky_23-2151700781.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/digital-art-dark-cosmic-night-sky_23-2151700781.jpg?_wi=1"
       imageAlt="Next-gen gaming world"
       mediaAnimation="slide-up"
     />
@@ -109,7 +109,7 @@ export default function LandingPage() {
           description: "Build guilds, make alliances, win together.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-boy-holding-black-controller_23-2148243649.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-boy-holding-black-controller_23-2148243649.jpg?_wi=1"
       imageAlt="Gaming experience close up"
       mediaAnimation="slide-up"
     />
@@ -126,19 +126,19 @@ export default function LandingPage() {
           id: "1",
           name: "Aetheria RPG",
           price: "$59.99",
-          imageSrc: "http://img.b2bpic.net/free-photo/geometric-heart-shape-outdoors_23-2150827398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/geometric-heart-shape-outdoors_23-2150827398.jpg?_wi=1",
         },
         {
           id: "2",
           name: "Blade Edge",
           price: "$49.99",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-3d-religious-cross-with-neon-light_23-2150945819.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-3d-religious-cross-with-neon-light_23-2150945819.jpg?_wi=1",
         },
         {
           id: "3",
           name: "Vortex Tactics",
           price: "$39.99",
-          imageSrc: "http://img.b2bpic.net/free-vector/paintball-icon-collection_1262-3429.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/paintball-icon-collection_1262-3429.jpg?_wi=1",
         },
         {
           id: "4",
@@ -241,7 +241,7 @@ export default function LandingPage() {
           quote: "The most polished combat system I have ever played.",
           tag: "RPG Gamer",
           avatarSrc: "http://img.b2bpic.net/free-photo/smiling-viewer-changing-channels-television-set-with-remote-control_482257-92306.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/digital-art-dark-cosmic-night-sky_23-2151700781.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/digital-art-dark-cosmic-night-sky_23-2151700781.jpg?_wi=2",
           imageAlt: "esports player headshot",
         },
         {
@@ -252,7 +252,7 @@ export default function LandingPage() {
           quote: "I love the community features and guild mechanics.",
           tag: "Hardcore Gamer",
           avatarSrc: "http://img.b2bpic.net/free-photo/cartoon-woman-wearing-glasses_23-2151136814.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-boy-holding-black-controller_23-2148243649.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-boy-holding-black-controller_23-2148243649.jpg?_wi=2",
           imageAlt: "esports player headshot",
         },
         {
@@ -263,7 +263,7 @@ export default function LandingPage() {
           quote: "The tactical shooter experience is second to none.",
           tag: "Pro Player",
           avatarSrc: "http://img.b2bpic.net/free-photo/person-working-animation-porject_23-2149269895.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/geometric-heart-shape-outdoors_23-2150827398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/geometric-heart-shape-outdoors_23-2150827398.jpg?_wi=2",
           imageAlt: "esports player headshot",
         },
         {
@@ -274,7 +274,7 @@ export default function LandingPage() {
           quote: "Graphics are stunning and the story keeps me hooked.",
           tag: "Story Lover",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-adult-enjoying-playing-video-game_23-2149250001.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/view-3d-religious-cross-with-neon-light_23-2150945819.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-3d-religious-cross-with-neon-light_23-2150945819.jpg?_wi=2",
           imageAlt: "esports player headshot",
         },
         {
@@ -285,7 +285,7 @@ export default function LandingPage() {
           quote: "Reminds me of my favorite childhood games but modernized.",
           tag: "Veteran",
           avatarSrc: "http://img.b2bpic.net/free-photo/hispanic-teenager-playing-video-game-holding-controller-relaxed-with-serious-expression-face-simple-natural-looking-camera_839833-3187.jpg",
-          imageSrc: "http://img.b2bpic.net/free-vector/paintball-icon-collection_1262-3429.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/paintball-icon-collection_1262-3429.jpg?_wi=2",
           imageAlt: "esports player headshot",
         },
       ]}
